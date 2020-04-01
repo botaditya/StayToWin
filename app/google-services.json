@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206776548055",
+    "firebase_url": "https://staytowin-a8fd4.firebaseio.com",
+    "project_id": "staytowin-a8fd4",
+    "storage_bucket": "staytowin-a8fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206776548055:android:4f4cd8b30c9cbb2e0a4e92",
+        "android_client_info": {
+          "package_name": "com.example.staytowin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206776548055-9acdlbruvjuqqftsd6o14mbaljpfpu5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQ4C8Nv43Y0tuFOmDlWvQt7FZwvRy2Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206776548055-9acdlbruvjuqqftsd6o14mbaljpfpu5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
